@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on a client side JS framework with built in live collaboration features
 - 🌱 I’m currently learning more about Conflict-free replicated data types (CRDTs)
-- 👯 I’m looking to collaborate on a Typescript compiler that just drops the JS keywords
-- 💬 Ask me about no code tools!
+- 👯 I’m looking to collaborate on a Typescript compiler that just drops the TS keywords
+- 💬 Ask me about no-code tools!
 - 📫 How to reach me: herrerocontact@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ I love Jazz and playing drums
