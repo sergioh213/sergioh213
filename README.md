@@ -32,7 +32,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="26px" src="./img/typescript-light.svg" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="26px" src="./img/spring-light.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="26px" src="./img/spring-boot-light.png" style="padding-right:10px;" />
@@ -40,5 +39,6 @@
 <img align="left" alt="Java" width="26px" src="./img/java-light.png" style="padding-right:10px;" />
 <img align="left" alt="Amazon Web Services" height="26px" src="./img/aws-light.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" height="26px" src="./img/figma-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />
 
 
