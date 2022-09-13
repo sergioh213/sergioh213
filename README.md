@@ -38,7 +38,7 @@
 <img align="left" alt="Spring Boot" width="26px" src="./img/spring-boot-light.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./img/python-light.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="./img/java-light.png" style="padding-right:10px;" />
-<img align="left" alt="Amazon Web Services" width="26px" src="./img/aws-light.png" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="./img/figma-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Amazon Web Services" height="26px" src="./img/aws-light.png" style="padding-right:10px;" />
+<img align="left" alt="Figma" height="26px" src="./img/figma-light.svg" style="padding-right:10px;" />
 
 
